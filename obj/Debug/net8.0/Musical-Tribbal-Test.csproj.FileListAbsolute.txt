@@ -1,0 +1,15 @@
+/Users/jolle/repos/Musical-Tribbal-Test/bin/Debug/net8.0/Musical-Tribbal-Test
+/Users/jolle/repos/Musical-Tribbal-Test/bin/Debug/net8.0/Musical-Tribbal-Test.deps.json
+/Users/jolle/repos/Musical-Tribbal-Test/bin/Debug/net8.0/Musical-Tribbal-Test.runtimeconfig.json
+/Users/jolle/repos/Musical-Tribbal-Test/bin/Debug/net8.0/Musical-Tribbal-Test.dll
+/Users/jolle/repos/Musical-Tribbal-Test/bin/Debug/net8.0/Musical-Tribbal-Test.pdb
+/Users/jolle/repos/Musical-Tribbal-Test/obj/Debug/net8.0/Musical-Tribbal-Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jolle/repos/Musical-Tribbal-Test/obj/Debug/net8.0/Musical-Tribbal-Test.AssemblyInfoInputs.cache
+/Users/jolle/repos/Musical-Tribbal-Test/obj/Debug/net8.0/Musical-Tribbal-Test.AssemblyInfo.cs
+/Users/jolle/repos/Musical-Tribbal-Test/obj/Debug/net8.0/Musical-Tribbal-Test.csproj.CoreCompileInputs.cache
+/Users/jolle/repos/Musical-Tribbal-Test/obj/Debug/net8.0/Musical-Tribbal-Test.sourcelink.json
+/Users/jolle/repos/Musical-Tribbal-Test/obj/Debug/net8.0/Musical-Tribbal-Test.dll
+/Users/jolle/repos/Musical-Tribbal-Test/obj/Debug/net8.0/refint/Musical-Tribbal-Test.dll
+/Users/jolle/repos/Musical-Tribbal-Test/obj/Debug/net8.0/Musical-Tribbal-Test.pdb
+/Users/jolle/repos/Musical-Tribbal-Test/obj/Debug/net8.0/Musical-Tribbal-Test.genruntimeconfig.cache
+/Users/jolle/repos/Musical-Tribbal-Test/obj/Debug/net8.0/ref/Musical-Tribbal-Test.dll
