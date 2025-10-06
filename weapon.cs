@@ -1,3 +1,3 @@
 namespace App;
 
-Item
+List<Item> Weapon = new Dagger List<Item>();

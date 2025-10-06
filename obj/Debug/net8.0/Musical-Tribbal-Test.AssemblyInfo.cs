@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Musical-Tribbal-Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9ae637e568a312ce8d6ab1a062ccfaf592834c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a791e71d492b5142f881399708f5dc30a7647c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Musical-Tribbal-Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Musical-Tribbal-Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
