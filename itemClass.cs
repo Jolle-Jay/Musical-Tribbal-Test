@@ -2,7 +2,7 @@ using System.ComponentModel;
 
 namespace App;
 
-class Item
+public class Item
 {
     public string Name;
     public string Description;
